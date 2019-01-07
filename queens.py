@@ -1,3 +1,5 @@
+#codigo fuente: https://github.com/snazrul1/PyRevolution/blob/master/Puzzles/N_Queen_Problem.ipynb
+
 # itertools
 # https://docs.python.org/3.5/library/itertools.html
 
